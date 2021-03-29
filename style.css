@@ -51,7 +51,21 @@ a:hover {
 .bloc-md {
     padding: 50px;
 }
+/*modif*/
+.bloc-md h2{
+    font-size: 5.5vw;
+}
+.citation{
+    margin-bottom: 0.8vw;
+}
+.black{
+    color: black;
+}
 
+/**/
+.bg-bl{
+    background-color: rgb(55, 55, 233);
+}
 .bloc-sm {
     padding: 20px 50px;
 }
@@ -651,7 +665,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -775,12 +789,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ff7637!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
