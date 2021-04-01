@@ -54,6 +54,7 @@ a:hover {
 /*modif*/
 .bloc-md h2{
     font-size: 5.5vw;
+
 }
 .citation{
     margin-bottom: 0.8vw;
@@ -61,7 +62,11 @@ a:hover {
 .black{
     color: black;
 }
-
+@media (min-width: 1024px){
+    .bloc-md h2{
+        font-size: 2vw;
+    }
+}
 /**/
 .bg-bl{
     background-color: rgb(0, 0, 0);
